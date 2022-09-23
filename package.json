@@ -1,0 +1,7 @@
+{
+  "name": "media-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-media-server": "^2.4.7"
+  }
+}
